@@ -39,7 +39,7 @@ A camera of an average resolution placed at a height of 10 feet can detect and c
 
 ![Capture_1.png](Capture_1.png)
 
-Console log in Ubuntu backend with the coordinates of the intrusion with visual capture
+Console log in Ubuntu backend with the coordinates of it's geographic location in the farm, with it's distance from the camera and visual feed.
 
 ![Capture_2.png](Capture_2.png)
 
