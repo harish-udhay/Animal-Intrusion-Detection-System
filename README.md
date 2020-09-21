@@ -45,7 +45,7 @@ Console log in Ubuntu backend with the coordinates of it's geographic location i
 
 ###### Note: The screenshots of the OpenGL graphic display aren't included
 
-###### Code definition
+#### Code definition
 
 1.   hello.sh is bash shell code that orchestrates the entire process
 2.   publisher.c - code to publish the data to publisher topic in MQTT server
