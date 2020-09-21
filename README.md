@@ -47,9 +47,9 @@ Console log in Ubuntu backend with the coordinates of it's geographic location i
 
 ###### Code definition
 
-   hello.sh is bash shell code that orchestrates the entire process
-   publisher.c - code to publish the data to publisher topic in MQTT server
-   subscriber.c - code to receive the data from publisher topic in MQTT server
-   pipe.h - code to initialize a pipe communication between the device and MQTT server
-   finov.cpp - code to capture and analyze the video feed received from the cameras
-   main.c - code to control and manipulate the camera  movements
+1.   hello.sh is bash shell code that orchestrates the entire process
+2.   publisher.c - code to publish the data to publisher topic in MQTT server
+3.   subscriber.c - code to receive the data from publisher topic in MQTT server
+4.   pipe.h - code to initialize a pipe communication between the device and MQTT server
+5.   finov.cpp - code to capture and analyze the video feed received from the cameras
+6.   main.c - code to control and manipulate the camera  movements
