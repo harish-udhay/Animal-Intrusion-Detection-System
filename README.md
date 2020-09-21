@@ -36,6 +36,7 @@ The system tracks the path of the animal intruding and also predicts the directi
 #### Sample visual capture
 
 A camera of an average resolution placed at a height of 10 feet can detect and capture intrusion upto a horizontal distance of 40 feet.
+
 ![Capture_1.png](Capture_1.png)
 
 ![Capture_2.png](Capture_2.png)
