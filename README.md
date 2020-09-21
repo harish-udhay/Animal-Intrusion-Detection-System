@@ -1,5 +1,5 @@
-# Animal Intrusion Detection System
-######  Note: This system proposed in 2017 is an end-to-end prototype of the actual idea.
+# Animal Intrusion Detection System - 2017
+######  Note: This project is an end-to-end prototype of the actual idea.
 
 #### Objective
 
