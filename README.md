@@ -1,5 +1,5 @@
 # Animal Intrusion Detection System
-######  Note: This system proposed in 2017 and this project is an end-to-end prototype of the actual system.
+######  Note: This system proposed in 2017 is an end-to-end prototype of the actual idea.
 
 #### Objective
 
@@ -8,7 +8,7 @@
 The proposed approach uses a set of motion sensors, whose count depends upon the area of the farm, which triggers the selective cameras when the sensors detect a motion of an animal or a human. The camera captures the visuals of the moving animal which and tracks the moving object into the farm. Additionally, it transmits the visuals to MQTT server for image processing to identify the object of intrusion. Once the moving object is identified to be an animal, the intruder (animal) along with it’s geographic location (WITHOUT EMPLOYING A GPS SENSOR) in the farm is sent from server to the output display that is developed over OpenGL library.
 
 #### Architecture Diagram
-![sequence_diagram.png](Architecture.png)
+![Architecture.png](Architecture.png)
 
 #### Sequence Diagram
 ![sequence_diagram.png](sequence_diagram.png)
@@ -32,3 +32,10 @@ The system tracks the path of the animal intruding and also predicts the directi
 2.      Arduino IDE
 3.      OpenGL and OpenCV
 4.      Ubuntu OS to set up MQTT terminals
+
+#### Sample visual capture
+
+A camera of an average resolution placed at a height of 10 feet can detect and capture intrusion upto a horizontal distance of 40 feet.
+![Capture_1.png](Capture_1.png)
+
+![Capture_2.png](Capture_2.png)
