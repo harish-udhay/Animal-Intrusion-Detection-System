@@ -39,4 +39,8 @@ A camera of an average resolution placed at a height of 10 feet can detect and c
 
 ![Capture_1.png](Capture_1.png)
 
+Console log in Ubuntu backend with the coordinates of the intrusion with visual capture
+
 ![Capture_2.png](Capture_2.png)
+
+###### Note: The screenshots of the OpenGL graphic display aren't included
